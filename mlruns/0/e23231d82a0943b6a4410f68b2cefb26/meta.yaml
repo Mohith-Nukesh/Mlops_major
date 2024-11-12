@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e23231d82a0943b6a4410f68b2cefb26/artifacts
+end_time: 1731395319150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e23231d82a0943b6a4410f68b2cefb26
+run_name: Random Forest
+run_uuid: e23231d82a0943b6a4410f68b2cefb26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395318703
+status: 3
+tags: []
+user_id: mohith
