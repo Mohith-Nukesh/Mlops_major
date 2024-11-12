@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ddd68c2495544d289943d0e0980f765d/artifacts
+end_time: 1731397116251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddd68c2495544d289943d0e0980f765d
+run_name: Logistic Regression
+run_uuid: ddd68c2495544d289943d0e0980f765d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731397116240
+status: 3
+tags: []
+user_id: mohith
